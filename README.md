@@ -1,16 +1,21 @@
-## Hi there 👋
+## Anthony Yalong
 
-<!--
-**yalongwastaken/yalongwastaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.S. CE, 2025 | M.S. ECE, 2027 | Embedded Systems · IoT · Firmware | Machine Learning & AI | ESP32 · STM32 · FreeRTOS
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+I'm passionate about building reliable, production-ready embedded systems and IoT devices. I love bridging hardware and software, with a strong focus on firmware development, real-time systems, and embedded security.
+
+Alongside embedded systems, I have a solid background in machine learning and AI, especially applied to intelligent edge computing.
+
+---
+
+### Technologies & Tools
+
+- **Embedded:** ESP32, STM32, FreeRTOS, STM32Cube  
+- **Programming Languages:** C, C++, Python  
+- **Machine Learning & AI:** TensorFlow, PyTorch, Edge ML  
+- **Development:** Git, PlatformIO, ESP-IDF, Arduino IDE  
+- **Other Skills:** Real-time OS, Firmware Architecture, Embedded Security
