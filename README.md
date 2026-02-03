@@ -1,6 +1,6 @@
 ## Anthony Yalong
 
-B.S. CE, 2025 | M.S. EECE, 2027 | Embedded Systems · IoT · Firmware | Machine Learning & AI | ESP32 · STM32 · FreeRTOS · esp-idf · HAL · Arduino
+B.S. CE, 2025 | M.S. EECE, 2027 | Embedded Systems · IoT · Firmware | Machine Learning & AI | ESP32 · STM32 · FreeRTOS | esp-idf · HAL · Arduino
 
 ---
 
