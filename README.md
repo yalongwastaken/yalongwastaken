@@ -1,7 +1,6 @@
 ## Anthony Yalong
-B.S. CE, GWU '25 | M.S. EECE, Northeastern '27
-Embedded Software Engineer | ESP32 · Zynq FPGA · Embedded Linux
-FreeRTOS · ESP-IDF · PetaLinux | RF & Signal Processing
+- B.S. CE, GWU '25 | M.S. EECE, Northeastern '27
+- Embedded Software Engineer | IoT Engineer
 
 ---
 
